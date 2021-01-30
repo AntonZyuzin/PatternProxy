@@ -1,0 +1,13 @@
+C:\Users\Professional\source\repos\PatternProxy\PatternProxy\obj\Debug\netcoreapp3.1\PatternProxy.csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\PatternProxy\PatternProxy\obj\Debug\netcoreapp3.1\PatternProxy.AssemblyInfoInputs.cache
+C:\Users\Professional\source\repos\PatternProxy\PatternProxy\obj\Debug\netcoreapp3.1\PatternProxy.AssemblyInfo.cs
+C:\Users\Professional\source\repos\PatternProxy\PatternProxy\obj\Debug\netcoreapp3.1\PatternProxy.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\PatternProxy\PatternProxy\bin\Debug\netcoreapp3.1\PatternProxy.exe
+C:\Users\Professional\source\repos\PatternProxy\PatternProxy\bin\Debug\netcoreapp3.1\PatternProxy.deps.json
+C:\Users\Professional\source\repos\PatternProxy\PatternProxy\bin\Debug\netcoreapp3.1\PatternProxy.runtimeconfig.json
+C:\Users\Professional\source\repos\PatternProxy\PatternProxy\bin\Debug\netcoreapp3.1\PatternProxy.runtimeconfig.dev.json
+C:\Users\Professional\source\repos\PatternProxy\PatternProxy\bin\Debug\netcoreapp3.1\PatternProxy.dll
+C:\Users\Professional\source\repos\PatternProxy\PatternProxy\bin\Debug\netcoreapp3.1\PatternProxy.pdb
+C:\Users\Professional\source\repos\PatternProxy\PatternProxy\obj\Debug\netcoreapp3.1\PatternProxy.dll
+C:\Users\Professional\source\repos\PatternProxy\PatternProxy\obj\Debug\netcoreapp3.1\PatternProxy.pdb
+C:\Users\Professional\source\repos\PatternProxy\PatternProxy\obj\Debug\netcoreapp3.1\PatternProxy.genruntimeconfig.cache
